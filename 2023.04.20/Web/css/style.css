@@ -1,0 +1,74 @@
+
+header{
+    padding: 15px;
+    background-color: #fd5000;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    font-weight: bold;
+}
+
+nav li a:hover{
+    font-style: italic;
+}
+
+.navbar{
+    background-color: #fd5000;
+}
+
+h1{
+    margin-top: 10px;    
+    color:   #fd5000;
+    font-variant: small-caps;
+}
+
+h2{    
+    margin-top: 10px;    
+    padding: 5px 15px;
+    font-variant: small-caps;
+    color:#fd5000;
+    border-left: 3px dotted #fd5000;
+    border-top: 3px dotted #fd5000;;
+}
+
+h3{    
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    color:  #fd5000;    
+    border-top: 1px dashed #fd5000;  
+    border-bottom: dotted;
+}
+
+p{
+    text-align: justify;
+}
+
+.center {
+    display: block;
+    height: 200px;
+    margin: auto;
+}
+
+footer{
+    background-color: #fd5000;
+}
+
+footer p{ 
+    font-variant: small-caps;   
+}
+
+.row ul {
+    list-style-image: url("../img/mi.png");
+}
+
+footer p{
+    font-style: italic;
+    text-align: center;
+    font-size: 2.5vw;
+    padding: 10px;
+}
